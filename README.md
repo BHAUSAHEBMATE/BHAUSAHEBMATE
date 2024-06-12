@@ -9,8 +9,7 @@
 - 📫 How to reach me **bmate7448@gmail.com**
 
 - ⚡fact **I love playing Cricket**
-- 
-## Projects
+
 ## Skills and Technologies
 -	Languages/Technologies : Core & Advance Java
 - Frameworks : Spring, Spring Boot ,Spring MVC
@@ -18,6 +17,8 @@
 - Development Tools : Eclipse , Visual Studio Code
 - Web/Application Server : Apache Tomcat 8
 - Web Technologies : HTML, CSS, Java Script
+
+## Projects
 
 ## 📚 Employee Management System
 -	Spring Boot: Utilize Spring Boot to create the backend of the application.
