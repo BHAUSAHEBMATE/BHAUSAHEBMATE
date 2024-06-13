@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **bmate7448@gmail.com**
 
-- ⚡fact **I love playing Cricket**
+- ⚡ **I love playing Cricket**
 
 ## Skills and Technologies
 -	Languages/Technologies : Core & Advance Java
