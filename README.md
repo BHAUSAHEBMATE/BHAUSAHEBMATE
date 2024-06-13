@@ -18,31 +18,15 @@
 - Web/Application Server : Apache Tomcat 8
 - Web Technologies : HTML, CSS, Java Script
 
-## Projects
-
-## 📚 Employee Management System
--	Spring Boot: Utilize Spring Boot to create the backend of the application.
--	This includes handling data persistence, business logic, and RESTful API endpoints for communication with the frontend.
-- HTML/CSS: Design a user-friendly interface using HTML for structuring the web pages and CSS for styling them.
--	This will ensure a visually appealing and responsive layout.
--	Java: Leverage Java for the backend logic, including user authentication, CRUD (Create, Read, Update, Delete) operations for employee data, and any other business rules required for managing employees effectively.
--	Management: Ability to add, view, update, and delete employee records.
--	Database Integration: Utilizes a database MySQL to store employee data.
--	RESTful API: Enables communication between frontend and backend data exchange.
-  
-## 📚 product Crud App
--	Controller: Handles user requests, interacts with the model, and returns the appropriate view.
--	Model: Represents the data and business logic of the application.
-- View: Presents the data to the user ( using JSP,HTML,CSS).
-- Dependencies: Spring MVC: For web application development.
--	Hibernate: For ORM (Object-Relational Mapping) to interact with the database.
--	MySQL : To store and manage product data.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bhausaheb-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhausaheb mate" height="30" width="40" /></a>
-<a href="https://instagram.com/bhausaheb mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhausaheb mate" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhausaheb-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhausaheb mate" height="30" width="40" /></a>
+  
+<a href="https://sites.google.com/view/bhausaheb-mate/home" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.0LgAS_K3JViGnyoxfdl3PwHaFh&pid=Api&P=0&h=180" alt="bhausaheb mate" height="30" width="40" /></a>
+
+
 </p>
 
 
