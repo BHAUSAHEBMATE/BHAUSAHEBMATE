@@ -4,11 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhausahebmate&label=Profile%20views&color=0e75b6&style=flat" alt="bhausahebmate" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **bmate7448@gmail.com**
-
-- ⚡ **I love playing Cricket**
+## About Me
+Full Stack Java Developer | Programmer
+- Hi, I'm Bhausaheb Mate from Shirdi, Maharashtra.
+- Proficient in Java programming, with a strong understanding of core concepts like object-oriented programming, data structures, and algorithms.
+- Skilled in front-end development technologies such as HTML, CSS, and JavaScript, capable of creating responsive and visually appealing web interfaces.
+- Capable of designing and implementing RESTful APIs, enabling communication between different modules of a software system and facilitating interoperability.
 
 ## Skills and Technologies
 -	Languages/Technologies : Core & Advance Java
@@ -22,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhausaheb-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhausaheb mate" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhausaheb-mate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhausaheb mate" height="30" width="40" /></a><span> Linkedin</span>
   
-<a href="https://sites.google.com/view/bhausaheb-mate/home" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.0LgAS_K3JViGnyoxfdl3PwHaFh&pid=Api&P=0&h=180" alt="bhausaheb mate" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/bhausaheb-mate/home" target="blank"><img align="center" src="https://tse4.mm.bing.net/th?id=OIP.0LgAS_K3JViGnyoxfdl3PwHaFh&pid=Api&P=0&h=180" alt="bhausaheb mate" height="30" width="40" /></a><span> PortFolio</span>
 
 
 </p>
